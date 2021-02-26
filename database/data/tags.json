@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "山岳",
+        "column_space": "0"
+    },
+    {
+        "id": 2,
+        "name": "高原",
+        "column_space": "0"
+    },
+    {
+        "id": 3,
+        "name": "森林",
+        "column_space": "0"
+    },
+    {
+        "id": 4,
+        "name": "川／渓谷",
+        "column_space": "0"
+    },
+    {
+        "id": 5,
+        "name": "海／海岸線",
+        "column_space": "0"
+    },
+    {
+        "id": 6,
+        "name": "湖沼",
+        "column_space": "0"
+    },
+    {
+        "id": 7,
+        "name": "田園／里山",
+        "column_space": "0"
+    },
+    {
+        "id": 8,
+        "name": "草原／湿原",
+        "column_space": "0"
+    },
+    {
+        "id": 9,
+        "name": "史跡／古道",
+        "column_space": "0"
+    },
+    {
+        "id": 10,
+        "name": "温泉",
+        "column_space": "0"
+    },
+    {
+        "id": 11,
+        "name": "国立公園／国定公園",
+        "column_space": "0"
+    },
+    {
+        "id": 12,
+        "name": "ジオパーク",
+        "column_space": "0"
+    },
+    {
+        "id": 13,
+        "name": "日本百名山",
+        "column_space": "0"
+    },
+    {
+        "id": 14,
+        "name": "ロングトレイル／ロングライド",
+        "column_space": "1"
+    },
+    {
+        "id": 15,
+        "name": "ダウンヒル／ヒルクライム",
+        "column_space": "1"
+    },
+    {
+        "id": 16,
+        "name": "オフロード",
+        "column_space": "0"
+    },
+    {
+        "id": 17,
+        "name": "SEA TO SUMMIT",
+        "column_space": "0"
+    },
+    {
+        "id": 18,
+        "name": "レンタル",
+        "column_space": "0"
+    },
+    {
+        "id": 19,
+        "name": "駅",
+        "column_space": "0"
+    },
+    {
+        "id": 20,
+        "name": "道の駅",
+        "column_space": "0"
+    },
+    {
+        "id": 21,
+        "name": "空港",
+        "column_space": "0"
+    },
+    {
+        "id": 22,
+        "name": "フェリーターミナル",
+        "column_space": "0"
+    }
+]

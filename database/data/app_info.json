@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "jet_api",
+        "version": "1.0.0",
+        "term_service": "<div><h1>Term</h1><ul><li>rule 1</li><li>rule 1</li><li>rule 1</li></ul></div>",
+        "home_background" : "http://jet-api.ethan-tech.asia/images/home_background/home_background_1.png"
+    }
+]
