@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "name": "北海道",
+        "sw_latitude": "40.809898",
+        "sw_longtitude": "139.460225",
+        "ne_latitude": "45.901704",
+        "ne_longtitude": "145.964131"
+    },
+    {
+        "id": "2",
+        "name": "東北",
+        "sw_latitude": "36.697801",
+        "sw_longtitude": "137.957263",
+        "ne_latitude": "41.839569",
+        "ne_longtitude": "143.450427"
+    },
+    {
+        "id": "3",
+        "name": "関東・甲信越",
+        "sw_latitude": "33.949602",
+        "sw_longtitude": "136.795047",
+        "ne_latitude": "39.161457",
+        "ne_longtitude": "142.672732" 
+    },
+    {
+        "id": "4",
+        "name": "東海・北陸",
+        "sw_latitude": "32.968899",
+        "sw_longtitude": "134.334109",
+        "ne_latitude": "38.140475",
+        "ne_longtitude": "139.937137"       
+    },
+    {
+        "id": "5",
+        "name": "関西",
+        "sw_latitude": "31.865288",
+        "sw_longtitude": "132.850955",
+        "ne_latitude": "37.157558",
+        "ne_longtitude": "138.069461"
+    },
+    {
+        "id": "6",
+        "name": "中国",
+        "sw_latitude": "31.743910",
+        "sw_longtitude": "130.236209",
+        "ne_latitude": "37.140044",
+        "ne_longtitude": "135.465701"
+    },
+    {
+        "id": "7",
+        "name": "四国",
+        "sw_latitude": "31.049968",
+        "sw_longtitude": "130.829471",
+        "ne_latitude": "36.391970",
+        "ne_longtitude": "136.080935"
+    },
+    {
+        "id": "8",
+        "name": "九州・沖縄",
+        "sw_latitude": "30.303515",
+        "sw_longtitude": "128.280642",
+        "ne_latitude": "34.955158",
+        "ne_longtitude": "133.048709"
+    }
+]

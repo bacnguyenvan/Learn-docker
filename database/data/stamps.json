@@ -1,0 +1,794 @@
+[
+    {
+        "id": "1",
+        "name": "Stamp1",
+        "description": "Stamp Description",
+        "latitude": "32.936532",
+        "longitude": "131.082455",
+        "thumbnail": "boat",
+        "type": "boat"
+    },
+    {
+        "id": "2",
+        "name": "Stamp2",
+        "description": "Stamp Description",
+        "latitude": "32.945074",
+        "longitude": "131.076544",
+        "thumbnail": "bycicle",
+        "type": "boat"
+    },
+    {
+        "id": "3",
+        "name": "Stamp3",
+        "description": "Stamp Description",
+        "latitude": "32.937882",
+        "longitude": "131.085005",
+        "thumbnail": "bycicle-boat",
+        "type": "boat"
+    },
+    {
+        "id": "4",
+        "name": "Stamp4",
+        "description": "Stamp Description",
+        "latitude": "32.936024",
+        "longitude": "131.080305",
+        "thumbnail": "climb",
+        "type": "boat"
+    },
+    {
+        "id": "5",
+        "name": "Stamp5",
+        "description": "Stamp Description",
+        "latitude": "32.938091",
+        "longitude": "131.122828",
+        "thumbnail": "climb-boat",
+        "type": "boat"
+    },
+    {
+        "id": "6",
+        "name": "Stamp6",
+        "description": "Stamp Description",
+        "latitude": "32.932507",
+        "longitude": "131.079843",
+        "thumbnail": "climb-bycicle",
+        "type": "boat"
+    },
+    {
+        "id": "7",
+        "name": "Stamp7",
+        "description": "Stamp Description",
+        "latitude": "32.817602",
+        "longitude": "131.041174",
+        "thumbnail": "climb-bycicle-boat",
+        "type": "boat"
+    },
+    {
+        "id": "8",
+        "name": "Stamp8",
+        "description": "Stamp Description",
+        "latitude": "32.828717",
+        "longitude": "131.029975",
+        "thumbnail": "skiing",
+        "type": "boat"
+    },
+    {
+        "id": "9",
+        "name": "Stamp9",
+        "description": "Stamp Description",
+        "latitude": "32.816918",
+        "longitude": "131.041912",
+        "thumbnail": "snowshoes",
+        "type": "boat"
+    },
+    {
+        "id": "10",
+        "name": "Stamp10",
+        "description": "Stamp Description",
+        "latitude": "32.682172",
+        "longitude": "130.990596",
+        "thumbnail": "boat",
+        "type": "boat"
+    },
+    {
+        "id": "11",
+        "name": "Stamp11",
+        "description": "Stamp Description",
+        "latitude": "32.711068",
+        "longitude": "130.973746",
+        "thumbnail": "bycicle",
+        "type": "boat"
+    },
+    {
+        "id": "12",
+        "name": "Stamp12",
+        "description": "Stamp Description",
+        "latitude": "32.68398",
+        "longitude": "130.990821",
+        "thumbnail": "bycicle-boat",
+        "type": "boat"
+    },
+    {
+        "id": "13",
+        "name": "Stamp13",
+        "description": "Stamp Description",
+        "latitude": "32.852812",
+        "longitude": "130.981963",
+        "thumbnail": "climb",
+        "type": "boat"
+    },
+    {
+        "id": "14",
+        "name": "Stamp14",
+        "description": "Stamp Description",
+        "latitude": "32.786348",
+        "longitude": "131.018602",
+        "thumbnail": "climb-boat",
+        "type": "boat"
+    },
+    {
+        "id": "15",
+        "name": "Stamp15",
+        "description": "Stamp Description",
+        "latitude": "32.80439",
+        "longitude": "131.138738",
+        "thumbnail": "climb-bycicle",
+        "type": "boat"
+    },
+    {
+        "id": "16",
+        "name": "Stamp16",
+        "description": "Stamp Description",
+        "latitude": "32.633138",
+        "longitude": "131.090855",
+        "thumbnail": "climb-bycicle-boat",
+        "type": "boat"
+    },
+    {
+        "id": "17",
+        "name": "Stamp17",
+        "description": "Stamp Description",
+        "latitude": "32.634182",
+        "longitude": "131.091926",
+        "thumbnail": "skiing",
+        "type": "boat"
+    },
+    {
+        "id": "18",
+        "name": "Stamp18",
+        "description": "Stamp Description",
+        "latitude": "32.632429",
+        "longitude": "131.08974",
+        "thumbnail": "snowshoes",
+        "type": "boat"
+    },
+    {
+        "id": "19",
+        "name": "Stamp19",
+        "description": "Stamp Description",
+        "latitude": "33.071629",
+        "longitude": "131.189457",
+        "thumbnail": "boat",
+        "type": "boat"
+    },
+    {
+        "id": "20",
+        "name": "Stamp20",
+        "description": "Stamp Description",
+        "latitude": "33.046372",
+        "longitude": "131.190234",
+        "thumbnail": "bycicle",
+        "type": "boat"
+    },
+    {
+        "id": "21",
+        "name": "Stamp21",
+        "description": "Stamp Description",
+        "latitude": "33.072829",
+        "longitude": "131.18567",
+        "thumbnail": "bycicle-boat",
+        "type": "boat"
+    },
+    {
+        "id": "22",
+        "name": "Stamp22",
+        "description": "Stamp Description",
+        "latitude": "32.886757",
+        "longitude": "131.055743",
+        "thumbnail": "climb",
+        "type": "boat"
+    },
+    {
+        "id": "23",
+        "name": "Stamp23",
+        "description": "Stamp Description",
+        "latitude": "32.894885",
+        "longitude": "131.056838",
+        "thumbnail": "climb-boat",
+        "type": "boat"
+    },
+    {
+        "id": "24",
+        "name": "Stamp24",
+        "description": "Stamp Description",
+        "latitude": "32.886736",
+        "longitude": "131.055609",
+        "thumbnail": "climb-bycicle",
+        "type": "boat"
+    },
+    {
+        "id": "25",
+        "name": "Stamp25",
+        "description": "Stamp Description",
+        "latitude": "32.885102",
+        "longitude": "131.055916",
+        "thumbnail": "climb-bycicle-boat",
+        "type": "boat"
+    },
+    {
+        "id": "26",
+        "name": "Stamp26",
+        "description": "Stamp Description",
+        "latitude": "32.876827",
+        "longitude": "131.053999",
+        "thumbnail": "skiing",
+        "type": "boat"
+    },
+    {
+        "id": "27",
+        "name": "Stamp27",
+        "description": "Stamp Description",
+        "latitude": "32.884169",
+        "longitude": "131.050446",
+        "thumbnail": "snowshoes",
+        "type": "boat"
+    },
+    {
+        "id": "28",
+        "name": "Stamp28",
+        "description": "Stamp Description",
+        "latitude": "32.878896",
+        "longitude": "131.075958",
+        "thumbnail": "boat",
+        "type": "boat"
+    },
+    {
+        "id": "29",
+        "name": "Stamp29",
+        "description": "Stamp Description",
+        "latitude": "32.886295",
+        "longitude": "131.109131",
+        "thumbnail": "bycicle",
+        "type": "boat"
+    },
+    {
+        "id": "30",
+        "name": "Stamp30",
+        "description": "Stamp Description",
+        "latitude": "32.878909",
+        "longitude": "131.075968",
+        "thumbnail": "bycicle-boat",
+        "type": "boat"
+    },
+    {
+        "id": "31",
+        "name": "Stamp31",
+        "description": "Stamp Description",
+        "longitude": "135.4930662",
+        "latitude": "34.67814586",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "32",
+        "name": "Stamp32",
+        "description": "Stamp Description",
+        "longitude": "135.4930894",
+        "latitude": "34.68182823",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "33",
+        "name": "Stamp33",
+        "description": "Stamp Description",
+        "longitude": "135.4947841",
+        "latitude": "34.68487922",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "34",
+        "name": "Stamp34",
+        "description": "Stamp Description",
+        "longitude": "135.4964952",
+        "latitude": "34.6908199",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "35",
+        "name": "Stamp35",
+        "description": "Stamp Description",
+        "longitude": "135.4958515",
+        "latitude": "34.69448079",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "36",
+        "name": "Stamp36",
+        "description": "Stamp Description",
+        "longitude": "135.4956047",
+        "latitude": "34.69838851",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "37",
+        "name": "Stamp37",
+        "description": "Stamp Description",
+        "longitude": "135.4966625",
+        "latitude": "34.70123545",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "38",
+        "name": "Stamp38",
+        "description": "Stamp Description",
+        "longitude": "135.4930361",
+        "latitude": "34.67814519",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "39",
+        "name": "Stamp39",
+        "description": "Stamp Description",
+        "longitude": "135.4930942",
+        "latitude": "34.68170479",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "40",
+        "name": "Stamp40",
+        "description": "Stamp Description",
+        "longitude": "135.5064675",
+        "latitude": "34.681915",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "41",
+        "name": "Stamp41",
+        "description": "Stamp Description",
+        "longitude": "135.5212397",
+        "latitude": "34.68130835",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "42",
+        "name": "Stamp42",
+        "description": "Stamp Description",
+        "longitude": "135.5201571",
+        "latitude": "34.68823734",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "43",
+        "name": "Stamp43",
+        "description": "Stamp Description",
+        "longitude": "135.5252546",
+        "latitude": "34.69111884",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "44",
+        "name": "Stamp44",
+        "description": "Stamp Description",
+        "longitude": "135.5286351",
+        "latitude": "34.6893032",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "45",
+        "name": "Stamp45",
+        "description": "Stamp Description",
+        "longitude": "135.5334094",
+        "latitude": "34.68153084",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "46",
+        "name": "Stamp46",
+        "description": "Stamp Description",
+        "longitude": "135.5212215",
+        "latitude": "34.68119557",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "47",
+        "name": "Stamp47",
+        "description": "Stamp Description",
+        "longitude": "135.5065153",
+        "latitude": "34.68168953",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "48",
+        "name": "Stamp48",
+        "description": "Stamp Description",
+        "longitude": "135.4930434",
+        "latitude": "34.67814225",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "49",
+        "name": "Stamp49",
+        "description": "Stamp Description",
+        "longitude": "135.4930984",
+        "latitude": "34.67818013",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "50",
+        "name": "Stamp50",
+        "description": "Stamp Description",
+        "longitude": "135.4907345",
+        "latitude": "34.68969583",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "51",
+        "name": "Stamp51",
+        "description": "Stamp Description",
+        "longitude": "135.48858",
+        "latitude": "34.69271493",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "52",
+        "name": "Stamp52",
+        "description": "Stamp Description",
+        "longitude": "135.4871086",
+        "latitude": "34.6972806",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "53",
+        "name": "Stamp53",
+        "description": "Stamp Description",
+        "longitude": "135.4913853",
+        "latitude": "34.69818594",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "54",
+        "name": "Stamp54",
+        "description": "Stamp Description",
+        "longitude": "135.4967352",
+        "latitude": "34.70125669",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "55",
+        "name": "Stamp55",
+        "description": "Stamp Description",
+        "longitude": "135.487127",
+        "latitude": "34.69727359",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "56",
+        "name": "Stamp56",
+        "description": "Stamp Description",
+        "longitude": "135.4907898",
+        "latitude": "34.68964806",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "57",
+        "name": "Stamp57",
+        "description": "Stamp Description",
+        "longitude": "135.4930141",
+        "latitude": "34.67816143",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "58",
+        "name": "Stamp58",
+        "description": "Stamp Description",
+        "longitude": "135.4930524",
+        "latitude": "34.67815094",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "59",
+        "name": "Stamp59",
+        "description": "Stamp Description",
+        "longitude": "135.4930078",
+        "latitude": "34.68158711",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "60",
+        "name": "Stamp60",
+        "description": "Stamp Description",
+        "longitude": "135.4968928",
+        "latitude": "34.68182318",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "61",
+        "name": "Stamp61",
+        "description": "Stamp Description",
+        "longitude": "135.4959869",
+        "latitude": "34.68091038",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "62",
+        "name": "Stamp62",
+        "description": "Stamp Description",
+        "longitude": "135.4959295",
+        "latitude": "34.67967756",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "63",
+        "name": "Stamp63",
+        "description": "Stamp Description",
+        "longitude": "135.4933203",
+        "latitude": "34.6794887",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "64",
+        "name": "Stamp64",
+        "description": "Stamp Description",
+        "longitude": "135.4930843",
+        "latitude": "34.67815618",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "65",
+        "name": "Stamp65",
+        "description": "Stamp Description",
+        "longitude": "135.49307894043",
+        "latitude": "34.67814867",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "66",
+        "name": "Stamp66",
+        "description": "Stamp Description",
+        "longitude": "135.493234508551",
+        "latitude": "34.67880598",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "67",
+        "name": "Stamp67",
+        "description": "Stamp Description",
+        "longitude": "135.495925287686",
+        "latitude": "34.67909284",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "68",
+        "name": "Stamp68",
+        "description": "Stamp Description",
+        "longitude": "135.496052875766",
+        "latitude": "34.68168963",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "69",
+        "name": "Stamp69",
+        "description": "Stamp Description",
+        "longitude": "135.492984382424",
+        "latitude": "34.67819051",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "70",
+        "name": "ETA 70",
+        "description": "ETA Stamp 70",
+        "latitude": "10.7932114",
+        "longitude": "106.6790194",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "71",
+        "name": "ETA 71",
+        "description": "ETA Stamp 71",
+        "latitude": "10.792762",
+        "longitude": "106.680239",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "72",
+        "name": "ETA 72",
+        "description": "ETA Stamp 72",
+        "latitude": "10.790043",
+        "longitude": "106.681086",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "73",
+        "name": "ETA 73",
+        "description": "ETA Stamp 73",
+        "latitude": "10.786628",
+        "longitude": "106.681687",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "74",
+        "name": "ETA 74",
+        "description": "ETA Stamp 74",
+        "latitude": "10.787134",
+        "longitude": "106.679198",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "75",
+        "name": "ETA 75",
+        "description": "ETA Stamp 75",
+        "latitude": "10.791223",
+        "longitude": "106.678018",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": "76",
+        "name": "ETA 76",
+        "description": "ETA Stamp 76",
+        "latitude": "10.7932039",
+        "longitude": "106.6790115",
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": 77,
+        "name": "StampSannomiya01",
+        "description": "Stamp Description",
+        "latitude": 34.690065,
+        "longitude": 135.198034,
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": 78,
+        "name": "StampSannomiya02",
+        "description": "Stamp Description",
+        "latitude": 34.68849,
+        "longitude": 135.19876,
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": 79,
+        "name": "StampSannomiya03",
+        "description": "Stamp Description",
+        "latitude": 34.687566,
+        "longitude": 135.197433,
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": 80,
+        "name": "StampSannomiya04",
+        "description": "Stamp Description",
+        "latitude": 34.689288,
+        "longitude": 135.196621,
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": 81,
+        "name": "StampSannomiya05",
+        "description": "Stamp Description",
+        "latitude": 34.69166,
+        "longitude": 135.196009,
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": 82,
+        "name": "StampSannomiya06",
+        "description": "Stamp Description",
+        "latitude": 34.693021,
+        "longitude": 135.19917,
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": 83,
+        "name": "StampSannomiya07",
+        "description": "Stamp Description",
+        "latitude": 34.69144,
+        "longitude": 135.200242,
+        "thumbnail": "bycicle-boat",
+        "type": "bycicle-boat"
+    },
+    {
+        "id": 84,
+        "name": "Van Chung 1",
+        "description": "Van Chung 1",
+        "latitude": 10.805965,
+        "longitude": 106.647379,
+        "thumbnail": "bycicle",
+        "type": "bycicle"
+    },
+    {
+        "id": 85,
+        "name": "Van Chung 2",
+        "description": "Van Chung 2",
+        "latitude": 10.807480,
+        "longitude": 106.647103,
+        "thumbnail": "bycicle",
+        "type": "bycicle"
+    },
+    {
+        "id": 86,
+        "name": "Van Chung 3",
+        "description": "Van Chung 3",
+        "latitude": 10.807725,
+        "longitude": 106.645008,
+        "thumbnail": "bycicle",
+        "type": "bycicle"
+    },
+    {
+        "id": 87,
+        "name": "Van Chung 4",
+        "description": "Van Chung 4",
+        "latitude": 10.806550,
+        "longitude": 106.644525,
+        "thumbnail": "bycicle",
+        "type": "bycicle"
+    },
+    {
+        "id": 88,
+        "name": "Van Chung 5",
+        "description": "Van Chung 5",
+        "latitude": 10.805884,
+        "longitude": 106.645654,
+        "thumbnail": "bycicle",
+        "type": "bycicle"
+    }
+]

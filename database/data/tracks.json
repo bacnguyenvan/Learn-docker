@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "route_id": 1,
+        "member_id": 1,
+        "name": "Track 1",
+        "description": "description",
+        "type": "drive",
+        "total_distance": 72,
+        "total_time": 5,
+        "total_elevation": 185
+    },
+    {
+        "id": 2,
+        "route_id": 2,
+        "member_id": 2,
+        "name": "Track 2",
+        "description": "description",
+        "type": "drive",
+        "total_distance": 41,
+        "total_time": 5,
+        "total_elevation": 674
+    },
+    {
+        "id": 3,
+        "route_id": 4,
+        "member_id": 3,
+        "name": "Track 3",
+        "description": "description",
+        "type": "drive",
+        "total_distance": 72,
+        "total_time": 1,
+        "total_elevation": 624
+    },
+    {
+        "id": 4,
+        "route_id": 5,
+        "member_id": 1,
+        "name": "Track 4",
+        "description": "description",
+        "type": "drive",
+        "total_distance": 70,
+        "total_time": 1,
+        "total_elevation": 176
+    },
+    {
+        "id": 5,
+        "route_id": 6,
+        "member_id": 2,
+        "name": "Track 5",
+        "description": "description",
+        "type": "drive",
+        "total_distance": 57,
+        "total_time": 4,
+        "total_elevation": 539
+    },
+    {
+        "id": 6,
+        "route_id": 7,
+        "member_id": 3,
+        "name": "Track 6",
+        "description": "description",
+        "type": "drive",
+        "total_distance": 87,
+        "total_time": 2,
+        "total_elevation": 669
+    },
+    {
+        "id": 7,
+        "route_id": 8,
+        "member_id": 1,
+        "name": "Track 7",
+        "description": "description",
+        "type": "drive",
+        "total_distance": 52,
+        "total_time": 1,
+        "total_elevation": 415
+    },
+    {
+        "id": 8,
+        "route_id": 9,
+        "member_id": 2,
+        "name": "Track 8",
+        "description": "description",
+        "type": "drive",
+        "total_distance": 71,
+        "total_time": 1,
+        "total_elevation": 477
+    },
+    {
+        "id": 9,
+        "route_id": 10,
+        "member_id": 3,
+        "name": "Track 9",
+        "description": "description",
+        "type": "drive",
+        "total_distance": 56,
+        "total_time": 5,
+        "total_elevation": 786
+    },
+    {
+        "id": 10,
+        "route_id": 11,
+        "member_id": 1,
+        "name": "Track 10",
+        "description": "description",
+        "type": "drive",
+        "total_distance": 42,
+        "total_time": 2,
+        "total_elevation": 758
+    },
+    {
+        "id": 11,
+        "route_id": 12,
+        "member_id": 2,
+        "name": "Track 11",
+        "description": "description",
+        "type": "drive",
+        "total_distance": 100,
+        "total_time": 2,
+        "total_elevation": 297
+    },
+    {
+        "id": 12,
+        "route_id": 13,
+        "member_id": 3,
+        "name": "Track 12",
+        "description": "description",
+        "type": "drive",
+        "total_distance": 90,
+        "total_time": 4,
+        "total_elevation": 746
+    }
+]

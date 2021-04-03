@@ -1,0 +1,638 @@
+[
+    {
+        "route_id": 35,
+        "point_id": 1
+    },
+    {
+        "route_id": 35,
+        "point_id": 2
+    },
+    {
+        "route_id": 35,
+        "point_id": 3
+    },
+    {
+        "route_id": 35,
+        "point_id": 4
+    },
+    {
+        "route_id": 35,
+        "point_id": 5
+    },
+    {
+        "route_id": 35,
+        "point_id": 6
+    },
+    {
+        "route_id": 35,
+        "point_id": 7
+    },
+    {
+        "route_id": 35,
+        "point_id": 8
+    },
+    {
+        "route_id": 36,
+        "point_id": 9
+    },
+    {
+        "route_id": 36,
+        "point_id": 10
+    },
+    {
+        "route_id": 36,
+        "point_id": 11
+    },
+    {
+        "route_id": 36,
+        "point_id": 80
+    },
+    {
+        "route_id": 36,
+        "point_id": 81
+    },
+    {
+        "route_id": 36,
+        "point_id": 82
+    },
+    {
+        "route_id": 36,
+        "point_id": 83
+    },
+    {
+        "route_id": 36,
+        "point_id": 84
+    },
+    {
+        "route_id": 36,
+        "point_id": 85
+    },
+    {
+        "route_id": 37,
+        "point_id": 86
+    },
+    {
+        "route_id": 37,
+        "point_id": 87
+    },
+    {
+        "route_id": 37,
+        "point_id": 88
+    },
+    {
+        "route_id": 37,
+        "point_id": 89
+    },
+    {
+        "route_id": 37,
+        "point_id": 90
+    },
+    {
+        "route_id": 37,
+        "point_id": 91
+    },
+    {
+        "route_id": 37,
+        "point_id": 92
+    },
+    {
+        "route_id": 37,
+        "point_id": 93
+    },
+    {
+        "route_id": 38,
+        "point_id": 94
+    },
+    {
+        "route_id": 38,
+        "point_id": 95
+    },
+    {
+        "route_id": 38,
+        "point_id": 96
+    },
+    {
+        "route_id": 38,
+        "point_id": 97
+    },
+    {
+        "route_id": 38,
+        "point_id": 98
+    },
+    {
+        "route_id": 38,
+        "point_id": 99
+    },
+    {
+        "route_id": 38,
+        "point_id": 100
+    },
+    {
+        "route_id": 38,
+        "point_id": 101
+    },
+    {
+        "route_id": 38,
+        "point_id": 102
+    },
+    {
+        "route_id": 39,
+        "point_id": 103
+    },
+    {
+        "route_id": 39,
+        "point_id": 104
+    },
+    {
+        "route_id": 39,
+        "point_id": 105
+    },
+    {
+        "route_id": 39,
+        "point_id": 106
+    },
+    {
+        "route_id": 39,
+        "point_id": 107
+    },
+    {
+        "route_id": 39,
+        "point_id": 108
+    },
+    {
+        "route_id": 39,
+        "point_id": 109
+    },
+    {
+        "route_id": 39,
+        "point_id": 110
+    },
+    {
+        "route_id": 39,
+        "point_id": 111
+    },
+    {
+        "route_id": 40,
+        "point_id": 112
+    },
+    {
+        "route_id": 40,
+        "point_id": 113
+    },
+    {
+        "route_id": 40,
+        "point_id": 114
+    },
+    {
+        "route_id": 40,
+        "point_id": 115
+    },
+    {
+        "route_id": 40,
+        "point_id": 116
+    },
+    {
+        "route_id": 40,
+        "point_id": 117
+    },
+    {
+        "route_id": 40,
+        "point_id": 118
+    },
+    {
+        "route_id": 40,
+        "point_id": 119
+    },
+    {
+        "route_id": 40,
+        "point_id": 120
+    },
+    {
+        "route_id": 41,
+        "point_id": 121
+    },
+    {
+        "route_id": 41,
+        "point_id": 122
+    },
+    {
+        "route_id": 41,
+        "point_id": 123
+    },
+    {
+        "route_id": 41,
+        "point_id": 124
+    },
+    {
+        "route_id": 41,
+        "point_id": 125
+    },
+    {
+        "route_id": 41,
+        "point_id": 126
+    },
+    {
+        "route_id": 41,
+        "point_id": 127
+    },
+    {
+        "route_id": 41,
+        "point_id": 128
+    },
+    {
+        "route_id": 41,
+        "point_id": 129
+    },
+    {
+        "route_id": 42,
+        "point_id": 130
+    },
+    {
+        "route_id": 42,
+        "point_id": 131
+    },
+    {
+        "route_id": 42,
+        "point_id": 132
+    },
+    {
+        "route_id": 42,
+        "point_id": 133
+    },
+    {
+        "route_id": 42,
+        "point_id": 134
+    },
+    {
+        "route_id": 42,
+        "point_id": 135
+    },
+    {
+        "route_id": 42,
+        "point_id": 136
+    },
+    {
+        "route_id": 42,
+        "point_id": 137
+    },
+    {
+        "route_id": 42,
+        "point_id": 138
+    },
+    {
+        "route_id": 43,
+        "point_id": 139
+    },
+    {
+        "route_id": 43,
+        "point_id": 140
+    },
+    {
+        "route_id": 43,
+        "point_id": 141
+    },
+    {
+        "route_id": 43,
+        "point_id": 142
+    },
+    {
+        "route_id": 43,
+        "point_id": 143
+    },
+    {
+        "route_id": 43,
+        "point_id": 144
+    },
+    {
+        "route_id": 43,
+        "point_id": 145
+    },
+    {
+        "route_id": 43,
+        "point_id": 146
+    },
+    {
+        "route_id": 43,
+        "point_id": 147
+    },
+    {
+        "route_id": 44,
+        "point_id": 148
+    },
+    {
+        "route_id": 44,
+        "point_id": 149
+    },
+    {
+        "route_id": 44,
+        "point_id": 150
+    },
+    {
+        "route_id": 44,
+        "point_id": 151
+    },
+    {
+        "route_id": 44,
+        "point_id": 152
+    },
+    {
+        "route_id": 44,
+        "point_id": 153
+    },
+    {
+        "route_id": 44,
+        "point_id": 154
+    },
+    {
+        "route_id": 44,
+        "point_id": 155
+    },
+    {
+        "route_id": 44,
+        "point_id": 156
+    },
+    {
+        "route_id": 45,
+        "point_id": 157
+    },
+    {
+        "route_id": 45,
+        "point_id": 158
+    },
+    {
+        "route_id": 45,
+        "point_id": 159
+    },
+    {
+        "route_id": 45,
+        "point_id": 160
+    },
+    {
+        "route_id": 45,
+        "point_id": 161
+    },
+    {
+        "route_id": 45,
+        "point_id": 162
+    },
+    {
+        "route_id": 45,
+        "point_id": 163
+    },
+    {
+        "route_id": 45,
+        "point_id": 164
+    },
+    {
+        "route_id": 45,
+        "point_id": 165
+    },
+    {
+        "route_id": 46,
+        "point_id": 166
+    },
+    {
+        "route_id": 46,
+        "point_id": 167
+    },
+    {
+        "route_id": 46,
+        "point_id": 168
+    },
+    {
+        "route_id": 46,
+        "point_id": 169
+    },
+    {
+        "route_id": 46,
+        "point_id": 170
+    },
+    {
+        "route_id": 46,
+        "point_id": 171
+    },
+    {
+        "route_id": 46,
+        "point_id": 172
+    },
+    {
+        "route_id": 46,
+        "point_id": 173
+    },
+    {
+        "route_id": 46,
+        "point_id": 174
+    },
+    {
+        "route_id": 60,
+        "point_id": 175
+    },
+    {
+        "route_id": 60,
+        "point_id": 176
+    },
+    {
+        "route_id": 60,
+        "point_id": 177
+    },
+    {
+        "route_id": 60,
+        "point_id": 178
+    },
+    {
+        "route_id": 60,
+        "point_id": 179
+    },
+    {
+        "route_id": 60,
+        "point_id": 180
+    },
+    {
+        "route_id": 61,
+        "point_id": 181
+    },
+    {
+        "route_id": 61,
+        "point_id": 182
+    },
+    {
+        "route_id": 61,
+        "point_id": 183
+    },
+    {
+        "route_id": 61,
+        "point_id": 184
+    },
+    {
+        "route_id": 61,
+        "point_id": 185
+    },
+    {
+        "route_id": 61,
+        "point_id": 186
+    },
+    {
+        "route_id": 61,
+        "point_id": 187
+    },
+    {
+        "route_id": 61,
+        "point_id": 188
+    },
+    {
+        "route_id": 61,
+        "point_id": 189
+    },
+    {
+        "route_id": 61,
+        "point_id": 190
+    },
+    {
+        "route_id": 61,
+        "point_id": 191
+    },
+    {
+        "route_id": 61,
+        "point_id": 192
+    },
+    {
+        "route_id": 62,
+        "point_id": 193
+    },
+    {
+        "route_id": 62,
+        "point_id": 194
+    },
+    {
+        "route_id": 62,
+        "point_id": 195
+    },
+    {
+        "route_id": 62,
+        "point_id": 196
+    },
+    {
+        "route_id": 62,
+        "point_id": 197
+    },
+    {
+        "route_id": 62,
+        "point_id": 198
+    },
+    {
+        "route_id": 62,
+        "point_id": 199
+    },
+    {
+        "route_id": 62,
+        "point_id": 200
+    },
+    {
+        "route_id": 62,
+        "point_id": 201
+    },
+    {
+        "route_id": 63,
+        "point_id": 202
+    },
+    {
+        "route_id": 63,
+        "point_id": 203
+    },
+    {
+        "route_id": 63,
+        "point_id": 204
+    },
+    {
+        "route_id": 63,
+        "point_id": 205
+    },
+    {
+        "route_id": 63,
+        "point_id": 206
+    },
+    {
+        "route_id": 63,
+        "point_id": 207
+    },
+    {
+        "route_id": 63,
+        "point_id": 208
+    },
+    {
+        "route_id": 64,
+        "point_id": 209
+    },
+    {
+        "route_id": 64,
+        "point_id": 210
+    },
+    {
+        "route_id": 64,
+        "point_id": 211
+    },
+    {
+        "route_id": 64,
+        "point_id": 212
+    },
+    {
+        "route_id": 64,
+        "point_id": 213
+    },
+    {
+        "route_id": 3,
+        "point_id": 214
+    },
+    {
+        "route_id": 3,
+        "point_id": 215
+    },
+    {
+        "route_id": 65,
+        "point_id": 216
+    },
+    {
+        "route_id": 65,
+        "point_id": 217
+    },
+    {
+        "route_id": 65,
+        "point_id": 218
+    },
+    {
+        "route_id": 65,
+        "point_id": 219
+    },
+    {
+        "route_id": 65,
+        "point_id": 220
+    },
+    {
+        "route_id": 65,
+        "point_id": 221
+    },
+    {
+        "route_id": 65,
+        "point_id": 222
+    },
+    {
+        "route_id": 20,
+        "point_id": 223
+    },
+    {
+        "route_id": 20,
+        "point_id": 224
+    },
+    {
+        "route_id": 20,
+        "point_id": 225
+    },
+    {
+        "route_id": 20,
+        "point_id": 226
+    },
+    {
+        "route_id": 20,
+        "point_id": 227
+    }
+]

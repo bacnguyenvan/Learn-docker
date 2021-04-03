@@ -1,0 +1,278 @@
+[
+    {
+        "id": 1,
+        "name": "キャンプ場",
+        "value": "camp_site",
+        "type": "landmark"
+    },
+    {
+        "id": 2,
+        "name": "見どころ",
+        "value": "highlight",
+        "type": "landmark"
+    },
+    {
+        "id": 3,
+        "name": "史跡",
+        "value": "historic_site",
+        "type": "landmark"
+    },
+    {
+        "id": 4,
+        "name": "飲食",
+        "value": "eat_drink",
+        "type": "landmark"
+    },
+    {
+        "id": 5,
+        "name": "駅",
+        "value": "station",
+        "type": "landmark"
+    },
+    {
+        "id": 6,
+        "name": "温泉•温浴施設",
+        "value": "hot_springs",
+        "type": "landmark"
+    },
+    {
+        "id": 7,
+        "name": "体験",
+        "value": "experience",
+        "type": "landmark"
+    },
+    {
+        "id": 8,
+        "name": "宿泊",
+        "value": "lodging",
+        "type": "landmark"
+    },
+    {
+        "id": 9,
+        "name": "山小屋",
+        "value": "mountain_hut",
+        "type": "landmark"
+    },
+    {
+        "id": 10,
+        "name": "ビジターセンター",
+        "value": "visitor_center",
+        "type": "landmark"
+    },
+    {
+        "id": 11,
+        "name": "教育施設",
+        "value": "educational_institutions",
+        "type": "landmark"
+    },
+    {
+        "id": 12,
+        "name": "自転車ショップ",
+        "value": "bicycle_shop",
+        "type": "landmark"
+    },
+    {
+        "id": 13,
+        "name": "スキー場",
+        "value": "ski_resort",
+        "type": "landmark"
+    },
+    {
+        "id": 14,
+        "name": "ショッピング",
+        "value": "shopping",
+        "type": "landmark"
+    },
+    {
+        "id": 15,
+        "name": "道の駅",
+        "value": "roadside_station",
+        "type": "landmark"
+    },
+    {
+        "id": 16,
+        "name": "スーパー",
+        "value": "supermarket",
+        "type": "landmark"
+    },
+    {
+        "id": 17,
+        "name": "コンビニ",
+        "value": "convenience_store",
+        "type": "landmark"
+    },
+    {
+        "id": 18,
+        "name": "郵便局",
+        "value": "post_office",
+        "type": "landmark"
+    },
+    {
+        "id": 19,
+        "name": "病院",
+        "value": "hospital",
+        "type": "landmark"
+    },
+    {
+        "id": 20,
+        "name": "橋",
+        "value": "bridge",
+        "type": "landmark"
+    },
+    {
+        "id": 21,
+        "name": "テイクアウト",
+        "value": "take_out",
+        "type": "landmark"
+    },
+    {
+        "id": 22,
+        "name": "駐車場",
+        "value": "parking_lot",
+        "type": "landmark"
+    },
+    {
+        "id": 23,
+        "name": "トイレ",
+        "value": "toilet",
+        "type": "landmark"
+    },
+    {
+        "id": 24,
+        "name": "フォトスポット",
+        "value": "photo_spot",
+        "type": "landmark"
+    },
+    {
+        "id": 25,
+        "name": "汎用",
+        "value": "point_icon",
+        "type": "landmark"
+    },
+    {
+        "id": 26,
+        "name": "体験ガイド",
+        "value": "experience_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 27,
+        "name": "情報コーナー",
+        "value": "info_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 28,
+        "name": "駐車場",
+        "value": "park_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 29,
+        "name": "バイクラック",
+        "value": "bikerack_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 30,
+        "name": "空気入れ",
+        "value": "pump_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 31,
+        "name": "工具",
+        "value": "tool_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 32,
+        "name": "トイレ",
+        "value": "toilet_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 33,
+        "name": "給水所",
+        "value": "water_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 34,
+        "name": "宿泊",
+        "value": "lodging_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 35,
+        "name": "飲食",
+        "value": "eatery_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 36,
+        "name": "カフェ",
+        "value": "cafe_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 37,
+        "name": "テイクアウト",
+        "value": "takeout_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 38,
+        "name": "温泉・温浴施設",
+        "value": "hotspring_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 39,
+        "name": "WI-FI",
+        "value": "wifi_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 40,
+        "name": "コンビニエンスストア",
+        "value": "combini_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 41,
+        "name": "キャンプ場",
+        "value": "camp_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 42,
+        "name": "スーパー",
+        "value": "spa_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 43,
+        "name": "自転車ショップ",
+        "value": "bicycleshop_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 44,
+        "name": "レンタル（自転車）",
+        "value": "bicyclerental_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 45,
+        "name": "レンタル（カヤック）",
+        "value": "kayakrental_support_icon",
+        "type": "support"
+    },
+    {
+        "id": 46,
+        "name": "レンタル（その他）",
+        "value": "rental_support_icon",
+        "type": "support"
+    }
+]

@@ -1,0 +1,641 @@
+[
+    { "id": 1, "route_id": 1, "latitude": 1, "longitude": 1, "elevation": 517 },
+    { "id": 2, "route_id": 1, "latitude": 1, "longitude": 1, "elevation": 666 },
+    { "id": 3, "route_id": 1, "latitude": 1, "longitude": 1, "elevation": 904 },
+    { "id": 4, "route_id": 2, "latitude": 1, "longitude": 1, "elevation": 850 },
+    { "id": 5, "route_id": 2, "latitude": 1, "longitude": 1, "elevation": 815 },
+    { "id": 6, "route_id": 2, "latitude": 1, "longitude": 1, "elevation": 888 },
+    { "id": 7, "route_id": 3, "latitude": 1, "longitude": 1, "elevation": 840 },
+    { "id": 8, "route_id": 3, "latitude": 1, "longitude": 1, "elevation": 657 },
+    { "id": 9, "route_id": 3, "latitude": 1, "longitude": 1, "elevation": 690 },
+    {
+        "id": 10,
+        "route_id": 4,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 814
+    },
+    {
+        "id": 11,
+        "route_id": 4,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 533
+    },
+    {
+        "id": 12,
+        "route_id": 4,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 794
+    },
+    {
+        "id": 13,
+        "route_id": 5,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 506
+    },
+    {
+        "id": 14,
+        "route_id": 5,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 894
+    },
+    {
+        "id": 15,
+        "route_id": 5,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 636
+    },
+    {
+        "id": 16,
+        "route_id": 6,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 513
+    },
+    {
+        "id": 17,
+        "route_id": 6,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 973
+    },
+    {
+        "id": 18,
+        "route_id": 6,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 937
+    },
+    {
+        "id": 19,
+        "route_id": 7,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 621
+    },
+    {
+        "id": 20,
+        "route_id": 7,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 651
+    },
+    {
+        "id": 21,
+        "route_id": 7,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 598
+    },
+    {
+        "id": 22,
+        "route_id": 8,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 810
+    },
+    {
+        "id": 23,
+        "route_id": 8,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 841
+    },
+    {
+        "id": 24,
+        "route_id": 8,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 801
+    },
+    {
+        "id": 25,
+        "route_id": 9,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 983
+    },
+    {
+        "id": 26,
+        "route_id": 9,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 910
+    },
+    {
+        "id": 27,
+        "route_id": 9,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 944
+    },
+    {
+        "id": 28,
+        "route_id": 10,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 608
+    },
+    {
+        "id": 29,
+        "route_id": 10,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 701
+    },
+    {
+        "id": 30,
+        "route_id": 10,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 645
+    },
+    {
+        "id": 31,
+        "route_id": 11,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 605
+    },
+    {
+        "id": 32,
+        "route_id": 11,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 859
+    },
+    {
+        "id": 33,
+        "route_id": 11,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 527
+    },
+    {
+        "id": 34,
+        "route_id": 12,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 996
+    },
+    {
+        "id": 35,
+        "route_id": 12,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 858
+    },
+    {
+        "id": 36,
+        "route_id": 12,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 858
+    },
+    {
+        "id": 37,
+        "route_id": 13,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 894
+    },
+    {
+        "id": 38,
+        "route_id": 13,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 617
+    },
+    {
+        "id": 39,
+        "route_id": 13,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 591
+    },
+    {
+        "id": 40,
+        "route_id": 14,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 885
+    },
+    {
+        "id": 41,
+        "route_id": 14,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 929
+    },
+    {
+        "id": 42,
+        "route_id": 14,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 898
+    },
+    {
+        "id": 43,
+        "route_id": 15,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 864
+    },
+    {
+        "id": 44,
+        "route_id": 15,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 991
+    },
+    {
+        "id": 45,
+        "route_id": 15,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 654
+    },
+    {
+        "id": 46,
+        "route_id": 16,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 692
+    },
+    {
+        "id": 47,
+        "route_id": 16,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 604
+    },
+    {
+        "id": 48,
+        "route_id": 16,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 863
+    },
+    {
+        "id": 49,
+        "route_id": 17,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 833
+    },
+    {
+        "id": 50,
+        "route_id": 17,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 677
+    },
+    {
+        "id": 51,
+        "route_id": 17,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 642
+    },
+    {
+        "id": 52,
+        "route_id": 18,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 609
+    },
+    {
+        "id": 53,
+        "route_id": 18,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 525
+    },
+    {
+        "id": 54,
+        "route_id": 18,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 992
+    },
+    {
+        "id": 55,
+        "route_id": 19,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 944
+    },
+    {
+        "id": 56,
+        "route_id": 19,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 692
+    },
+    {
+        "id": 57,
+        "route_id": 19,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 955
+    },
+    {
+        "id": 58,
+        "route_id": 20,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 895
+    },
+    {
+        "id": 59,
+        "route_id": 20,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 833
+    },
+    {
+        "id": 60,
+        "route_id": 20,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 908
+    },
+    {
+        "id": 61,
+        "route_id": 21,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 919
+    },
+    {
+        "id": 62,
+        "route_id": 21,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 901
+    },
+    {
+        "id": 63,
+        "route_id": 21,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 869
+    },
+    {
+        "id": 64,
+        "route_id": 22,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 913
+    },
+    {
+        "id": 65,
+        "route_id": 22,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 953
+    },
+    {
+        "id": 66,
+        "route_id": 22,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 950
+    },
+    {
+        "id": 67,
+        "route_id": 23,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 805
+    },
+    {
+        "id": 68,
+        "route_id": 23,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 538
+    },
+    {
+        "id": 69,
+        "route_id": 23,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 677
+    },
+    {
+        "id": 70,
+        "route_id": 24,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 693
+    },
+    {
+        "id": 71,
+        "route_id": 24,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 885
+    },
+    {
+        "id": 72,
+        "route_id": 24,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 996
+    },
+    {
+        "id": 73,
+        "route_id": 25,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 753
+    },
+    {
+        "id": 74,
+        "route_id": 25,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 846
+    },
+    {
+        "id": 75,
+        "route_id": 25,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 523
+    },
+    {
+        "id": 76,
+        "route_id": 26,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 633
+    },
+    {
+        "id": 77,
+        "route_id": 26,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 649
+    },
+    {
+        "id": 78,
+        "route_id": 26,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 846
+    },
+    {
+        "id": 79,
+        "route_id": 27,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 774
+    },
+    {
+        "id": 80,
+        "route_id": 27,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 557
+    },
+    {
+        "id": 81,
+        "route_id": 27,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 931
+    },
+    {
+        "id": 82,
+        "route_id": 28,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 738
+    },
+    {
+        "id": 83,
+        "route_id": 28,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 821
+    },
+    {
+        "id": 84,
+        "route_id": 28,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 714
+    },
+    {
+        "id": 85,
+        "route_id": 29,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 591
+    },
+    {
+        "id": 86,
+        "route_id": 29,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 760
+    },
+    {
+        "id": 87,
+        "route_id": 29,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 587
+    },
+    {
+        "id": 88,
+        "route_id": 30,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 508
+    },
+    {
+        "id": 89,
+        "route_id": 30,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 995
+    },
+    {
+        "id": 90,
+        "route_id": 30,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 551
+    },
+    {
+        "id": 91,
+        "route_id": 31,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 968
+    },
+    {
+        "id": 92,
+        "route_id": 31,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 603
+    },
+    {
+        "id": 93,
+        "route_id": 31,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 824
+    },
+    {
+        "id": 94,
+        "route_id": 32,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 769
+    },
+    {
+        "id": 95,
+        "route_id": 32,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 535
+    },
+    {
+        "id": 96,
+        "route_id": 32,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 766
+    },
+    {
+        "id": 97,
+        "route_id": 33,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 540
+    },
+    {
+        "id": 98,
+        "route_id": 33,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 614
+    },
+    {
+        "id": 99,
+        "route_id": 33,
+        "latitude": 1,
+        "longitude": 1,
+        "elevation": 532
+    }
+]

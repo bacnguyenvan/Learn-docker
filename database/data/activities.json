@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "トレッキング",
+        "value": "trekking"
+    },
+    {
+        "id": 2,
+        "name": "サイクリング",
+        "value": "cycling"
+    },
+    {
+        "id": 3,
+        "name": "パドルスポーツ",
+        "value": "kayak"
+    },
+    {
+        "id": 4,
+        "name": "スノーシュー",
+        "value": "snowshoes"
+    },
+    {
+        "id": 5,
+        "name": "クロスカントリースキー",
+        "value": "skiing"
+    }
+]

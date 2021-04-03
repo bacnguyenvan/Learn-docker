@@ -1,0 +1,42 @@
+[
+    {
+        "member_id": "1",
+        "stamp_id": "1",
+        "route_id": "1"
+    },
+    {
+        "member_id": "1",
+        "stamp_id": "2",
+        "route_id": "2"
+    },
+    {
+        "member_id": "1",
+        "stamp_id": "3",
+        "route_id": "4"
+    },
+    {
+        "member_id": "2",
+        "stamp_id": "4",
+        "route_id": "5"
+    },
+    {
+        "member_id": "2",
+        "stamp_id": "5",
+        "route_id": "6"
+    },
+    {
+        "member_id": "2",
+        "stamp_id": "6",
+        "route_id": "7"
+    },
+    {
+        "member_id": "3",
+        "stamp_id": "7",
+        "route_id": "8"
+    },
+    {
+        "member_id": "3",
+        "stamp_id": "8",
+        "route_id": "9"
+    }
+]
