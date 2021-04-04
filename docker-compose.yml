@@ -66,7 +66,7 @@ services:
       - ./:/var/www/html
     working_dir: /var/www/html
     restart: always
-    command: "/usr/local/bin/php /var/www/html/artisan queue:work --queue=default"
+    command: "/usr/local/bin/php /var/www/html/artisan queue:work"
   worker_low:
     build:
       context: "."
