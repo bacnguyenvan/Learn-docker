@@ -138,7 +138,7 @@ class Route extends Model
 
     public function searchByActivity($request)
     {
-       
+       DB::enableQueryLog();
         $query = Route:: distinct('routes.id')
                 ->  leftJoin('route_activity','route_activity.route_id','routes.id')
                 ->  leftJoin('activities','activities.id','route_activity.activity_id')
@@ -165,7 +165,7 @@ class Route extends Model
                 ->  select('prefectures.name as prefecture_name','routes.id','routes.name as route_name','routes.number as route_number','areas.number as area_number','routes.stamina_level','routes.range','routes.journey_time','routes.total_elevation','routes.movement','routes.line_color')
                 
                 ->  get();
-       
+        dd(DB::getQueryLog());
         return $data;
     }
 
